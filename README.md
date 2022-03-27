@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=damir224)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=damir224&theme=auto)
 
 ![Codewars Stats](https://github-readme-codewars-stats.herokuapp.com/api/?username=damir224&card&colormode=dark_mode)
 
