@@ -1,6 +1,6 @@
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=damir224&theme=auto)
 
-![Codewars Stats](https://github-readme-codewars-stats.herokuapp.com/api/?username=damir224&card&colormode=dark_mode)
+![Codewars Stats](https://github.r2v.ch/codewars?user=damir224)
 
 <!--
 **damir224/damir224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
